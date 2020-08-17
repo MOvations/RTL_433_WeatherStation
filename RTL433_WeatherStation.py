@@ -23,8 +23,6 @@ __maintainer__ = "MOvations"
 # Save this as separete file later, before loading GitHub
 # class Config:
 #     # Weather Underground
-#     STATION_ID = "KMIMAPLE8"
-#     STATION_KEY = "UNMJ30kf"
 
 
 import sys
