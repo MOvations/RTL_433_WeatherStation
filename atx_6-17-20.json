@@ -1,0 +1,230 @@
+{"time" : "2020-06-16 07:11:12", "model" : "Schrader", "type" : "TPMS", "flags" : "66", "id" : "057D8A8", "pressure_kPa" : 252.500, "temperature_C" : 28.000, "mic" : "CRC"}
+{"time" : "2020-06-16 07:48:46", "model" : "Citroen", "type" : "TPMS", "state" : "dd", "id" : "84f7ef9f", "flags" : 0, "repeat" : 11, "pressure_kPa" : 120.032, "temperature_C" : 29.000, "maybe_battery" : 21, "mic" : "CHECKSUM"}
+{"time" : "2020-06-16 07:52:00", "model" : "Citroen", "type" : "TPMS", "state" : "de", "id" : "c7ded544", "flags" : 0, "repeat" : 9, "pressure_kPa" : 121.396, "temperature_C" : 30.000, "maybe_battery" : 77, "mic" : "CHECKSUM"}
+{"time" : "2020-06-16 08:24:31", "model" : "Renault", "type" : "TPMS", "id" : "52eb31", "flags" : "36", "pressure_kPa" : 235.500, "temperature_C" : 29.000, "mic" : "CRC"}
+{"time" : "2020-06-16 08:24:31", "model" : "Renault", "type" : "TPMS", "id" : "52eb31", "flags" : "36", "pressure_kPa" : 235.500, "temperature_C" : 29.000, "mic" : "CRC"}
+{"time" : "2020-06-16 08:24:35", "model" : "Renault", "type" : "TPMS", "id" : "52eb89", "flags" : "36", "pressure_kPa" : 235.500, "temperature_C" : 30.000, "mic" : "CRC"}
+{"time" : "2020-06-16 08:24:36", "model" : "Renault", "type" : "TPMS", "id" : "52eb82", "flags" : "36", "pressure_kPa" : 237.000, "temperature_C" : 28.000, "mic" : "CRC"}
+{"time" : "2020-06-16 08:36:31", "model" : "Renault", "type" : "TPMS", "id" : "2888a3", "flags" : "36", "pressure_kPa" : 218.250, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-16 13:11:44", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "16AF913", "pressure_kPa" : 235.000, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-16 16:14:57", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "07300FC", "pressure_kPa" : 232.500, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-16 16:19:08", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.700, "humidity" : 36, "mic" : "CRC"}
+{"time" : "2020-06-16 16:19:24", "model" : "Interlogix-Security", "subtype" : "unknown", "id" : "881012", "raw_message" : "7aa030", "battery_ok" : 0, "switch1" : "CLOSED", "switch2" : "CLOSED", "switch3" : "CLOSED", "switch4" : "CLOSED", "switch5" : "CLOSED"}
+{"time" : "2020-06-16 16:19:25", "model" : "Interlogix-Security", "subtype" : "unknown", "id" : "881012", "raw_message" : "7aa030", "battery_ok" : 0, "switch1" : "CLOSED", "switch2" : "CLOSED", "switch3" : "CLOSED", "switch4" : "CLOSED", "switch5" : "CLOSED"}
+{"time" : "2020-06-16 16:20:01", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.700, "humidity" : 36, "mic" : "CRC"}
+{"time" : "2020-06-16 16:20:54", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.700, "humidity" : 36, "mic" : "CRC"}
+{"time" : "2020-06-16 16:21:47", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 36, "mic" : "CRC"}
+{"time" : "2020-06-16 16:22:40", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 36, "mic" : "CRC"}
+{"time" : "2020-06-16 16:23:33", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 36, "mic" : "CRC"}
+{"time" : "2020-06-16 16:24:26", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 36, "mic" : "CRC"}
+{"time" : "2020-06-16 16:25:19", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 36, "mic" : "CRC"}
+{"time" : "2020-06-16 16:26:12", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:27:58", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:29:44", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:30:37", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:31:30", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:34:10", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:35:55", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:36:48", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.800, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:37:51", "model" : "Citroen", "type" : "TPMS", "state" : "dd", "id" : "87df4b1d", "flags" : 0, "repeat" : 9, "pressure_kPa" : 113.212, "temperature_C" : 38.000, "maybe_battery" : 113, "mic" : "CHECKSUM"}
+{"time" : "2020-06-16 16:40:20", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.900, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:41:13", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.900, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:42:06", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.900, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:42:59", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.900, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:43:10", "model" : "Renault", "type" : "TPMS", "id" : "864e16", "flags" : "36", "pressure_kPa" : 249.750, "temperature_C" : 52.000, "mic" : "CRC"}
+{"time" : "2020-06-16 16:43:53", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.900, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:44:45", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.900, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:45:38", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.900, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:47:24", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.900, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:48:27", "model" : "Citroen", "type" : "TPMS", "state" : "dd", "id" : "91468c0b", "flags" : 0, "repeat" : 9, "pressure_kPa" : 122.760, "temperature_C" : 29.000, "maybe_battery" : 26, "mic" : "CHECKSUM"}
+{"time" : "2020-06-16 16:49:11", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 103.900, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:54:28", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 104.000, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:55:21", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 104.000, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:56:14", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 104.000, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:57:00", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "123ED7D", "pressure_kPa" : 510.000, "temperature_C" : 39.000, "mic" : "CRC"}
+{"time" : "2020-06-16 16:57:00", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "123ED7D", "pressure_kPa" : 510.000, "temperature_C" : 39.000, "mic" : "CRC"}
+{"time" : "2020-06-16 16:57:01", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "123ED7D", "pressure_kPa" : 510.000, "temperature_C" : 39.000, "mic" : "CRC"}
+{"time" : "2020-06-16 16:57:07", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 104.000, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 16:59:46", "model" : "Ambientweather-F007TH", "id" : 100, "channel" : 1, "battery_ok" : 0, "temperature_F" : 104.000, "humidity" : 35, "mic" : "CRC"}
+{"time" : "2020-06-16 17:33:30", "model" : "Schrader", "type" : "TPMS", "flags" : "04", "id" : "14BA6D9", "pressure_kPa" : 290.000, "temperature_C" : 56.000, "mic" : "CRC"}
+{"time" : "2020-06-16 17:33:30", "model" : "Schrader", "type" : "TPMS", "flags" : "04", "id" : "14BA6D9", "pressure_kPa" : 290.000, "temperature_C" : 56.000, "mic" : "CRC"}
+{"time" : "2020-06-16 18:37:36", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930080", "id" : "242ECD", "pressure_kPa" : 232.500, "temperature_F" : 97.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-16 18:44:54", "model" : "Schrader", "type" : "TPMS", "flags" : "04", "id" : "1363AB4", "pressure_kPa" : 282.500, "temperature_C" : 51.000, "mic" : "CRC"}
+{"time" : "2020-06-16 18:44:54", "model" : "Schrader", "type" : "TPMS", "flags" : "04", "id" : "1363AB4", "pressure_kPa" : 282.500, "temperature_C" : 51.000, "mic" : "CRC"}
+{"time" : "2020-06-16 18:55:34", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "0153DB7", "pressure_kPa" : 232.500, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-16 19:33:23", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1D50204", "pressure_kPa" : 247.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-16 19:33:23", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1D50204", "pressure_kPa" : 247.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-16 19:33:23", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1D50204", "pressure_kPa" : 247.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-16 19:33:23", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1D50204", "pressure_kPa" : 247.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-16 19:44:50", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "054C39F", "pressure_kPa" : 230.000, "temperature_C" : 39.000, "mic" : "CRC"}
+{"time" : "2020-06-17 17:20:50", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "8ca7450a", "flags" : 0, "repeat" : 11, "pressure_kPa" : 122.760, "temperature_C" : 41.000, "maybe_battery" : 19, "mic" : "CHECKSUM"}
+{"time" : "2020-06-18 06:46:06", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "8fd40681", "flags" : 0, "repeat" : 1, "pressure_kPa" : 241.428, "temperature_C" : 27.000, "maybe_battery" : 20, "mic" : "CHECKSUM"}
+{"time" : "2020-06-18 09:07:18", "model" : "Renault", "type" : "TPMS", "id" : "5b98cf", "flags" : "36", "pressure_kPa" : 253.500, "temperature_C" : 27.000, "mic" : "CRC"}
+{"time" : "2020-06-18 15:53:29", "model" : "Citroen", "type" : "TPMS", "state" : "dd", "id" : "84f7e175", "flags" : 0, "repeat" : 10, "pressure_kPa" : 130.944, "temperature_C" : 36.000, "maybe_battery" : 14, "mic" : "CHECKSUM"}
+{"time" : "2020-06-18 16:43:38", "model" : "Ford", "type" : "TPMS", "id" : "0142bf94", "code" : "8e630e", "mic" : "CHECKSUM"}
+{"time" : "2020-06-18 20:28:45", "model" : "Ford", "type" : "TPMS", "id" : "0142c0a5", "code" : "84571e", "mic" : "CHECKSUM"}
+{"time" : "2020-06-18 20:28:45", "model" : "Ford", "type" : "TPMS", "id" : "0142c0a5", "code" : "84571e", "mic" : "CHECKSUM"}
+{"time" : "2020-06-18 20:29:15", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "1DE00C8", "pressure_kPa" : 237.500, "temperature_C" : 37.000, "mic" : "CRC"}
+{"time" : "2020-06-18 20:37:32", "model" : "Ford", "type" : "TPMS", "id" : "01809c31", "code" : "9a5f0e", "mic" : "CHECKSUM"}
+{"time" : "2020-06-18 20:52:36", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "8ce178f1", "flags" : 0, "repeat" : 3, "pressure_kPa" : 225.060, "temperature_C" : 35.000, "maybe_battery" : 120, "mic" : "CHECKSUM"}
+{"time" : "2020-06-18 21:09:58", "model" : "Renault", "type" : "TPMS", "id" : "42189e", "flags" : "36", "pressure_kPa" : 218.250, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-19 05:45:14", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "2B2446F", "pressure_kPa" : 230.000, "temperature_C" : 29.000, "mic" : "CRC"}
+{"time" : "2020-06-19 06:39:58", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "8fd84608", "flags" : 0, "repeat" : 2, "pressure_kPa" : 250.976, "temperature_C" : 30.000, "maybe_battery" : 11, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 06:39:58", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "8fd84608", "flags" : 0, "repeat" : 3, "pressure_kPa" : 250.976, "temperature_C" : 30.000, "maybe_battery" : 11, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 06:39:58", "model" : "Citroen", "type" : "TPMS", "state" : "1f", "id" : "8fd84608", "flags" : 0, "repeat" : 0, "pressure_kPa" : 250.976, "temperature_C" : 30.000, "maybe_battery" : 11, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 06:40:02", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "8fd844e6", "flags" : 0, "repeat" : 3, "pressure_kPa" : 249.612, "temperature_C" : 29.000, "maybe_battery" : 19, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 06:40:03", "model" : "Citroen", "type" : "TPMS", "state" : "1c", "id" : "9838c0e6", "flags" : 12, "repeat" : 0, "pressure_kPa" : 259.160, "temperature_C" : 32.000, "maybe_battery" : 8, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 07:36:04", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16ACF9F", "pressure_kPa" : 237.500, "temperature_C" : 30.000, "mic" : "CRC"}
+{"time" : "2020-06-19 08:50:03", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "16AB7F9", "pressure_kPa" : 247.500, "temperature_C" : 34.000, "mic" : "CRC"}
+{"time" : "2020-06-19 08:50:08", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16AB862", "pressure_kPa" : 247.500, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-19 09:51:32", "model" : "Renault", "type" : "TPMS", "id" : "52eb82", "flags" : "36", "pressure_kPa" : 237.000, "temperature_C" : 29.000, "mic" : "CRC"}
+{"time" : "2020-06-19 09:51:32", "model" : "Renault", "type" : "TPMS", "id" : "52eb82", "flags" : "36", "pressure_kPa" : 237.000, "temperature_C" : 29.000, "mic" : "CRC"}
+{"time" : "2020-06-19 10:37:17", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1996888", "pressure_kPa" : 250.000, "temperature_C" : 34.000, "mic" : "CRC"}
+{"time" : "2020-06-19 11:43:49", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "07A04E0", "pressure_kPa" : 252.500, "temperature_C" : 29.000, "mic" : "CRC"}
+{"time" : "2020-06-19 13:34:17", "model" : "Citroen", "type" : "TPMS", "state" : "de", "id" : "914d1d75", "flags" : 0, "repeat" : 11, "pressure_kPa" : 124.124, "temperature_C" : 35.000, "maybe_battery" : 97, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 13:47:01", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "01AC5F6", "pressure_kPa" : 250.000, "temperature_C" : 46.000, "mic" : "CRC"}
+{"time" : "2020-06-19 13:47:01", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "01AC5F6", "pressure_kPa" : 250.000, "temperature_C" : 46.000, "mic" : "CRC"}
+{"time" : "2020-06-19 13:47:01", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "01AC5F6", "pressure_kPa" : 250.000, "temperature_C" : 46.000, "mic" : "CRC"}
+{"time" : "2020-06-19 13:53:52", "model" : "Renault", "type" : "TPMS", "id" : "d28853", "flags" : "36", "pressure_kPa" : 279.750, "temperature_C" : 41.000, "mic" : "CRC"}
+{"time" : "2020-06-19 13:59:17", "model" : "Renault", "type" : "TPMS", "id" : "a5dba7", "flags" : "36", "pressure_kPa" : 277.500, "temperature_C" : 34.000, "mic" : "CRC"}
+{"time" : "2020-06-19 14:15:13", "model" : "Citroen", "type" : "TPMS", "state" : "de", "id" : "92f31fa4", "flags" : 0, "repeat" : 3, "pressure_kPa" : 136.400, "temperature_C" : 39.000, "maybe_battery" : 13, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 14:25:42", "model" : "Renault", "type" : "TPMS", "id" : "5c9cab", "flags" : "36", "pressure_kPa" : 273.000, "temperature_C" : 45.000, "mic" : "CRC"}
+{"time" : "2020-06-19 14:34:41", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "c7c9645a", "flags" : 0, "repeat" : 2, "pressure_kPa" : 136.400, "temperature_C" : 41.000, "maybe_battery" : 11, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 15:39:39", "model" : "Citroen", "type" : "TPMS", "state" : "10", "id" : "c671e246", "flags" : 12, "repeat" : 1, "pressure_kPa" : 253.704, "temperature_C" : 49.000, "maybe_battery" : 86, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 15:47:45", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16ACF9F", "pressure_kPa" : 240.000, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:24", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AB7F9", "pressure_kPa" : 255.000, "temperature_C" : 36.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:24", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AB7F9", "pressure_kPa" : 255.000, "temperature_C" : 36.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:24", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AB7F9", "pressure_kPa" : 255.000, "temperature_C" : 36.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:24", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AB7F9", "pressure_kPa" : 255.000, "temperature_C" : 36.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:24", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AB7F9", "pressure_kPa" : 255.000, "temperature_C" : 36.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:24", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AB7F9", "pressure_kPa" : 255.000, "temperature_C" : 36.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:24", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AB7F9", "pressure_kPa" : 255.000, "temperature_C" : 36.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:25", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AB7F9", "pressure_kPa" : 255.000, "temperature_C" : 36.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:28", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16ACC0B", "pressure_kPa" : 257.500, "temperature_C" : 43.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:29", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16ACC0B", "pressure_kPa" : 257.500, "temperature_C" : 43.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:29", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16ACC0B", "pressure_kPa" : 257.500, "temperature_C" : 43.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:29", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16ACC0B", "pressure_kPa" : 257.500, "temperature_C" : 43.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:29", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16ACC0B", "pressure_kPa" : 257.500, "temperature_C" : 43.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:29", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16ACC0B", "pressure_kPa" : 257.500, "temperature_C" : 43.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:29", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16ACC0B", "pressure_kPa" : 257.500, "temperature_C" : 43.000, "mic" : "CRC"}
+{"time" : "2020-06-19 16:15:29", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16ACC0B", "pressure_kPa" : 257.500, "temperature_C" : 43.000, "mic" : "CRC"}
+{"time" : "2020-06-19 17:19:11", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "8c9db0d4", "flags" : 0, "repeat" : 9, "pressure_kPa" : 114.576, "temperature_C" : 29.000, "maybe_battery" : 15, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 17:19:12", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "8c9db0d4", "flags" : 0, "repeat" : 10, "pressure_kPa" : 114.576, "temperature_C" : 29.000, "maybe_battery" : 15, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 17:34:14", "model" : "Citroen", "type" : "TPMS", "state" : "df", "id" : "9158a7bb", "flags" : 0, "repeat" : 9, "pressure_kPa" : 124.124, "temperature_C" : 49.000, "maybe_battery" : 13, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 17:36:44", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930080", "id" : "A5DF19", "pressure_kPa" : 242.500, "temperature_F" : 102.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 18:13:05", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "8c9db0d1", "flags" : 0, "repeat" : 10, "pressure_kPa" : 109.120, "temperature_C" : 38.000, "maybe_battery" : 27, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 18:13:05", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "8c9db0d1", "flags" : 0, "repeat" : 11, "pressure_kPa" : 109.120, "temperature_C" : 38.000, "maybe_battery" : 27, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 18:14:06", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "c61721c8", "flags" : 0, "repeat" : 1, "pressure_kPa" : 257.796, "temperature_C" : 41.000, "maybe_battery" : 16, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 18:14:06", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "c61721c8", "flags" : 0, "repeat" : 2, "pressure_kPa" : 257.796, "temperature_C" : 41.000, "maybe_battery" : 16, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 18:14:06", "model" : "Citroen", "type" : "TPMS", "state" : "1f", "id" : "c61721c8", "flags" : 0, "repeat" : 0, "pressure_kPa" : 257.796, "temperature_C" : 41.000, "maybe_battery" : 16, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 18:14:07", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "c61731db", "flags" : 0, "repeat" : 1, "pressure_kPa" : 205.964, "temperature_C" : 46.000, "maybe_battery" : 21, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 18:14:12", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "c6173225", "flags" : 0, "repeat" : 2, "pressure_kPa" : 253.704, "temperature_C" : 41.000, "maybe_battery" : 21, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 19:25:28", "model" : "Renault", "type" : "TPMS", "id" : "732714", "flags" : "36", "pressure_kPa" : 223.500, "temperature_C" : 37.000, "mic" : "CRC"}
+{"time" : "2020-06-19 19:25:28", "model" : "Renault", "type" : "TPMS", "id" : "732714", "flags" : "36", "pressure_kPa" : 223.500, "temperature_C" : 37.000, "mic" : "CRC"}
+{"time" : "2020-06-19 19:34:15", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930058", "id" : "3317BC", "pressure_kPa" : 215.000, "temperature_F" : 99.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 19:34:16", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930058", "id" : "3317BC", "pressure_kPa" : 215.000, "temperature_F" : 99.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 19:38:22", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "06DC5CA", "pressure_kPa" : 257.500, "temperature_C" : 46.000, "mic" : "CRC"}
+{"time" : "2020-06-19 20:04:06", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "867a960f", "flags" : 0, "repeat" : 10, "pressure_kPa" : 106.392, "temperature_C" : 32.000, "maybe_battery" : 23, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 20:04:55", "model" : "Citroen", "type" : "TPMS", "state" : "dd", "id" : "85dd557b", "flags" : 0, "repeat" : 9, "pressure_kPa" : 103.664, "temperature_C" : 33.000, "maybe_battery" : 12, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 22:39:23", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "c61721e6", "flags" : 0, "repeat" : 3, "pressure_kPa" : 188.232, "temperature_C" : 31.000, "maybe_battery" : 17, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 22:39:24", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "c61721c8", "flags" : 0, "repeat" : 2, "pressure_kPa" : 240.064, "temperature_C" : 28.000, "maybe_battery" : 20, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 22:39:27", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "c6173225", "flags" : 0, "repeat" : 2, "pressure_kPa" : 240.064, "temperature_C" : 30.000, "maybe_battery" : 17, "mic" : "CHECKSUM"}
+{"time" : "2020-06-19 22:53:33", "model" : "Interlogix", "device_type" : "unknown", "id" : "021106", "raw_message" : "912b28", "battery" : "LOW", "switch1" : "CLOSED", "switch2" : "OPEN", "switch3" : "CLOSED", "switch4" : "CLOSED", "switch5" : "CLOSED"}
+{"time" : "2020-06-19 22:53:37", "model" : "Interlogix", "device_type" : "unknown", "id" : "7419a1", "raw_message" : "8ca080", "battery" : "OK", "switch1" : "OPEN", "switch2" : "CLOSED", "switch3" : "CLOSED", "switch4" : "CLOSED", "switch5" : "CLOSED"}
+{"time" : "2020-06-19 22:53:38", "model" : "Interlogix", "device_type" : "contact", "id" : "a152a2", "raw_message" : "640620", "battery" : "OK", "switch1" : "OPEN", "switch2" : "CLOSED", "switch3" : "CLOSED", "switch4" : "CLOSED", "switch5" : "OPEN"}
+{"time" : "2020-06-19 22:53:39", "model" : "Interlogix", "device_type" : "unknown", "id" : "74b552", "raw_message" : "a010a0", "battery" : "OK", "switch1" : "CLOSED", "switch2" : "CLOSED", "switch3" : "CLOSED", "switch4" : "OPEN", "switch5" : "CLOSED"}
+{"time" : "2020-06-20 10:10:55", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "d285485a", "flags" : 0, "repeat" : 3, "pressure_kPa" : 220.968, "temperature_C" : 39.000, "maybe_battery" : 16, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 10:18:31", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "d285581f", "flags" : 0, "repeat" : 2, "pressure_kPa" : 241.428, "temperature_C" : 29.000, "maybe_battery" : 14, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 19:04:05", "model" : "Citroen", "type" : "TPMS", "state" : "df", "id" : "8653d6e4", "flags" : 0, "repeat" : 2, "pressure_kPa" : 128.216, "temperature_C" : 43.000, "maybe_battery" : 11, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 19:04:06", "model" : "Citroen", "type" : "TPMS", "state" : "df", "id" : "8653d6e4", "flags" : 0, "repeat" : 3, "pressure_kPa" : 128.216, "temperature_C" : 43.000, "maybe_battery" : 11, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 19:19:44", "model" : "Ford", "type" : "TPMS", "id" : "016d3f61", "code" : "95660e", "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 19:19:44", "model" : "Ford", "type" : "TPMS", "id" : "016d3f61", "code" : "95660e", "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 19:19:49", "model" : "Ford", "type" : "TPMS", "id" : "016c4f05", "code" : "8e670e", "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 19:32:01", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930080", "id" : "464094", "pressure_kPa" : 217.500, "temperature_F" : 119.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 19:42:25", "model" : "Citroen", "type" : "TPMS", "state" : "1f", "id" : "8ffda7d7", "flags" : 0, "repeat" : 0, "pressure_kPa" : 185.504, "temperature_C" : 40.000, "maybe_battery" : 35, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 20:19:16", "model" : "Citroen", "type" : "TPMS", "state" : "10", "id" : "d0b1d654", "flags" : 12, "repeat" : 1, "pressure_kPa" : 241.428, "temperature_C" : 48.000, "maybe_battery" : 14, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 20:19:16", "model" : "Citroen", "type" : "TPMS", "state" : "10", "id" : "d0b1d654", "flags" : 12, "repeat" : 2, "pressure_kPa" : 241.428, "temperature_C" : 48.000, "maybe_battery" : 14, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 20:19:16", "model" : "Citroen", "type" : "TPMS", "state" : "1c", "id" : "d0b1d654", "flags" : 12, "repeat" : 0, "pressure_kPa" : 241.428, "temperature_C" : 48.000, "maybe_battery" : 14, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 20:19:21", "model" : "Citroen", "type" : "TPMS", "state" : "10", "id" : "d0b308df", "flags" : 12, "repeat" : 1, "pressure_kPa" : 242.792, "temperature_C" : 51.000, "maybe_battery" : 8, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 20:22:32", "model" : "Citroen", "type" : "TPMS", "state" : "10", "id" : "d0b1d654", "flags" : 12, "repeat" : 2, "pressure_kPa" : 241.428, "temperature_C" : 47.000, "maybe_battery" : 12, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 20:22:34", "model" : "Citroen", "type" : "TPMS", "state" : "1c", "id" : "d0b308df", "flags" : 12, "repeat" : 0, "pressure_kPa" : 241.428, "temperature_C" : 50.000, "maybe_battery" : 8, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 21:03:58", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1997270", "pressure_kPa" : 260.000, "temperature_C" : 41.000, "mic" : "CRC"}
+{"time" : "2020-06-20 21:03:58", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1997270", "pressure_kPa" : 260.000, "temperature_C" : 41.000, "mic" : "CRC"}
+{"time" : "2020-06-20 21:03:58", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1997270", "pressure_kPa" : 260.000, "temperature_C" : 41.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:27", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1996888", "pressure_kPa" : 242.500, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:28", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1996FCC", "pressure_kPa" : 242.500, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:29", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1996FCC", "pressure_kPa" : 242.500, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:29", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1996FCC", "pressure_kPa" : 242.500, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:32", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1997270", "pressure_kPa" : 245.000, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:32", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1997270", "pressure_kPa" : 245.000, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:33", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1997270", "pressure_kPa" : 245.000, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:33", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1997270", "pressure_kPa" : 245.000, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:33", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1997270", "pressure_kPa" : 245.000, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-20 22:50:35", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "19958AD", "pressure_kPa" : 245.000, "temperature_C" : 35.000, "mic" : "CRC"}
+{"time" : "2020-06-20 23:05:23", "model" : "Ford", "type" : "TPMS", "id" : "22837c4d", "code" : "4209a0", "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 23:17:45", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "8ac1b8ce", "flags" : 0, "repeat" : 9, "pressure_kPa" : 114.576, "temperature_C" : 38.000, "maybe_battery" : 34, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 23:17:46", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "8ac1b8ce", "flags" : 0, "repeat" : 10, "pressure_kPa" : 114.576, "temperature_C" : 38.000, "maybe_battery" : 34, "mic" : "CHECKSUM"}
+{"time" : "2020-06-20 23:17:46", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "8ac1b8ce", "flags" : 0, "repeat" : 11, "pressure_kPa" : 114.576, "temperature_C" : 38.000, "maybe_battery" : 34, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 00:02:01", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "0146B34", "pressure_kPa" : 240.000, "temperature_C" : 35.000, "mic" : "CRC"}
+{"time" : "2020-06-21 00:26:00", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "836dd171", "flags" : 0, "repeat" : 9, "pressure_kPa" : 109.120, "temperature_C" : 30.000, "maybe_battery" : 15, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 01:48:39", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "069D5E5", "pressure_kPa" : 310.000, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-21 02:39:37", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "069D5E5", "pressure_kPa" : 312.500, "temperature_C" : 34.000, "mic" : "CRC"}
+{"time" : "2020-06-21 03:12:37", "model" : "Interlogix", "device_type" : "unknown", "id" : "020254", "raw_message" : "4081f8", "battery" : "OK", "switch1" : "CLOSED", "switch2" : "CLOSED", "switch3" : "CLOSED", "switch4" : "CLOSED", "switch5" : "CLOSED"}
+{"time" : "2020-06-21 09:31:33", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AB7F9", "pressure_kPa" : 242.500, "temperature_C" : 29.000, "mic" : "CRC"}
+{"time" : "2020-06-21 12:13:04", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "c0c9c846", "flags" : 12, "repeat" : 2, "pressure_kPa" : 148.676, "temperature_C" : 41.000, "maybe_battery" : 30, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 12:24:02", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d830130", "id" : "3548C4", "pressure_kPa" : 222.500, "temperature_F" : 92.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 12:24:36", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "0C248CC", "pressure_kPa" : 325.000, "temperature_C" : 47.000, "mic" : "CRC"}
+{"time" : "2020-06-21 12:27:33", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16ACF9F", "pressure_kPa" : 237.500, "temperature_C" : 30.000, "mic" : "CRC"}
+{"time" : "2020-06-21 12:27:33", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16ACF9F", "pressure_kPa" : 237.500, "temperature_C" : 30.000, "mic" : "CRC"}
+{"time" : "2020-06-21 12:27:33", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16ACF9F", "pressure_kPa" : 237.500, "temperature_C" : 30.000, "mic" : "CRC"}
+{"time" : "2020-06-21 12:27:34", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16ACC0B", "pressure_kPa" : 242.500, "temperature_C" : 33.000, "mic" : "CRC"}
+{"time" : "2020-06-21 13:17:28", "model" : "Citroen", "type" : "TPMS", "state" : "dd", "id" : "84f7e801", "flags" : 0, "repeat" : 9, "pressure_kPa" : 125.488, "temperature_C" : 29.000, "maybe_battery" : 15, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:20:00", "model" : "Renault", "type" : "TPMS", "id" : "5b98cf", "flags" : "36", "pressure_kPa" : 253.500, "temperature_C" : 28.000, "mic" : "CRC"}
+{"time" : "2020-06-21 13:20:00", "model" : "Renault", "type" : "TPMS", "id" : "5b98cf", "flags" : "36", "pressure_kPa" : 253.500, "temperature_C" : 28.000, "mic" : "CRC"}
+{"time" : "2020-06-21 13:42:37", "model" : "Ford", "type" : "TPMS", "id" : "3e6a4fb0", "code" : "885c46", "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:42:38", "model" : "Ford", "type" : "TPMS", "id" : "3e6a4fb0", "code" : "885c46", "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:42:40", "model" : "Ford", "type" : "TPMS", "id" : "3e7204b8", "code" : "8c5c46", "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:42:41", "model" : "Ford", "type" : "TPMS", "id" : "3e720493", "code" : "905c46", "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:42:42", "model" : "Citroen", "type" : "TPMS", "state" : "d2", "id" : "0e720493", "flags" : 0, "repeat" : 1, "pressure_kPa" : 245.520, "temperature_C" : 36.000, "maybe_battery" : 14, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:54:15", "model" : "Ford", "type" : "TPMS", "id" : "3e7204b8", "code" : "8c6046", "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:54:15", "model" : "Ford", "type" : "TPMS", "id" : "3e7204b8", "code" : "8c6046", "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:54:15", "model" : "Ford", "type" : "TPMS", "id" : "3e7204b8", "code" : "8c6046", "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:54:15", "model" : "Citroen", "type" : "TPMS", "state" : "d2", "id" : "0e7204b8", "flags" : 0, "repeat" : 1, "pressure_kPa" : 238.700, "temperature_C" : 40.000, "maybe_battery" : 19, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:54:15", "model" : "Ford", "type" : "TPMS", "id" : "3e7204b8", "code" : "8c6046", "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 13:54:18", "model" : "Ford", "type" : "TPMS", "id" : "3e6a5edf", "code" : "926146", "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 14:04:16", "model" : "Renault", "type" : "TPMS", "id" : "5b98cf", "flags" : "36", "pressure_kPa" : 267.000, "temperature_C" : 38.000, "mic" : "CRC"}
+{"time" : "2020-06-21 14:04:17", "model" : "Renault", "type" : "TPMS", "id" : "5b98cf", "flags" : "36", "pressure_kPa" : 267.000, "temperature_C" : 38.000, "mic" : "CRC"}
+{"time" : "2020-06-21 14:25:11", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "1D763F4", "pressure_kPa" : 527.500, "temperature_C" : 49.000, "mic" : "CRC"}
+{"time" : "2020-06-21 14:25:12", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "1D763F4", "pressure_kPa" : 527.500, "temperature_C" : 49.000, "mic" : "CRC"}
+{"time" : "2020-06-21 14:46:21", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "84f7e801", "flags" : 0, "repeat" : 9, "pressure_kPa" : 133.672, "temperature_C" : 41.000, "maybe_battery" : 24, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 14:46:21", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "84f7e801", "flags" : 0, "repeat" : 10, "pressure_kPa" : 133.672, "temperature_C" : 41.000, "maybe_battery" : 24, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 16:32:50", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16ACF9F", "pressure_kPa" : 260.000, "temperature_C" : 45.000, "mic" : "CRC"}
+{"time" : "2020-06-21 16:32:50", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16ACF9F", "pressure_kPa" : 260.000, "temperature_C" : 45.000, "mic" : "CRC"}
+{"time" : "2020-06-21 16:32:51", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16ACF9F", "pressure_kPa" : 260.000, "temperature_C" : 45.000, "mic" : "CRC"}
+{"time" : "2020-06-21 16:32:54", "model" : "Schrader", "type" : "TPMS", "flags" : "25", "id" : "16AB862", "pressure_kPa" : 257.500, "temperature_C" : 39.000, "mic" : "CRC"}
+{"time" : "2020-06-21 18:28:22", "model" : "Schrader", "type" : "TPMS", "flags" : "27", "id" : "134F5B4", "pressure_kPa" : 260.000, "temperature_C" : 46.000, "mic" : "CRC"}
+{"time" : "2020-06-21 19:26:43", "model" : "Citroen", "type" : "TPMS", "state" : "dd", "id" : "c318df0d", "flags" : 0, "repeat" : 9, "pressure_kPa" : 141.856, "temperature_C" : 40.000, "maybe_battery" : 16, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 19:26:43", "model" : "Citroen", "type" : "TPMS", "state" : "dd", "id" : "c318df0d", "flags" : 0, "repeat" : 11, "pressure_kPa" : 141.856, "temperature_C" : 40.000, "maybe_battery" : 16, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 19:58:29", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930058", "id" : "33270F", "pressure_kPa" : 212.500, "temperature_F" : 100.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 19:58:30", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930058", "id" : "3358CB", "pressure_kPa" : 212.500, "temperature_F" : 96.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 21:02:38", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "0CBBB1A", "pressure_kPa" : 197.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-21 21:02:38", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "0CBBB1A", "pressure_kPa" : 197.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-21 21:02:39", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "0CBBB6C", "pressure_kPa" : 225.000, "temperature_C" : 33.000, "mic" : "CRC"}
+{"time" : "2020-06-21 21:09:39", "model" : "Citroen", "type" : "TPMS", "state" : "dc", "id" : "82ba571e", "flags" : 0, "repeat" : 11, "pressure_kPa" : 118.668, "temperature_C" : 36.000, "maybe_battery" : 13, "mic" : "CHECKSUM"}
+{"time" : "2020-06-21 23:33:00", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1B128BB", "pressure_kPa" : 305.000, "temperature_C" : 42.000, "mic" : "CRC"}
+{"time" : "2020-06-21 23:33:01", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "1B14893", "pressure_kPa" : 257.500, "temperature_C" : 41.000, "mic" : "CRC"}
+{"time" : "2020-06-21 23:46:54", "model" : "Schrader", "type" : "TPMS", "flags" : "07", "id" : "16AF7F1", "pressure_kPa" : 240.000, "temperature_C" : 37.000, "mic" : "CRC"}
+{"time" : "2020-06-22 02:17:15", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AF8F4", "pressure_kPa" : 232.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-22 02:17:15", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AF8F4", "pressure_kPa" : 232.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-22 02:17:15", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AF8F4", "pressure_kPa" : 232.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-22 02:17:15", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AF8F4", "pressure_kPa" : 232.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-22 02:17:15", "model" : "Schrader", "type" : "TPMS", "flags" : "26", "id" : "16AF8F4", "pressure_kPa" : 232.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-22 02:20:39", "model" : "Renault", "type" : "TPMS", "id" : "52eb89", "flags" : "36", "pressure_kPa" : 235.500, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-22 06:46:01", "model" : "Citroen", "type" : "TPMS", "state" : "13", "id" : "8fd40681", "flags" : 0, "repeat" : 3, "pressure_kPa" : 244.156, "temperature_C" : 30.000, "maybe_battery" : 16, "mic" : "CHECKSUM"}
+{"time" : "2020-06-22 06:46:01", "model" : "Citroen", "type" : "TPMS", "state" : "1f", "id" : "9838c0e6", "flags" : 0, "repeat" : 0, "pressure_kPa" : 259.160, "temperature_C" : 33.000, "maybe_battery" : 18, "mic" : "CHECKSUM"}
+{"time" : "2020-06-22 06:46:01", "model" : "Ford", "type" : "TPMS", "id" : "1f9838c0", "code" : "e600be", "mic" : "CHECKSUM"}
+{"time" : "2020-06-22 07:55:51", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930058", "id" : "3358CB", "pressure_kPa" : 205.000, "temperature_F" : 90.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-22 07:55:59", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930058", "id" : "332F55", "pressure_kPa" : 207.500, "temperature_F" : 90.000, "mic" : "CHECKSUM"}
+{"time" : "2020-06-22 08:12:00", "model" : "Renault", "type" : "TPMS", "id" : "288383", "flags" : "36", "pressure_kPa" : 225.750, "temperature_C" : 31.000, "mic" : "CRC"}
+{"time" : "2020-06-22 08:12:01", "model" : "Renault", "type" : "TPMS", "id" : "288b54", "flags" : "36", "pressure_kPa" : 228.750, "temperature_C" : 32.000, "mic" : "CRC"}
+{"time" : "2020-06-22 08:25:18", "model" : "Oregon Scientific SL109H", "id" : 0, "channel" : 3, "temperature_C" : 0.000, "humidity" : 0, "status" : 0, "mic" : "CHECKSUM"}

@@ -1,0 +1,5 @@
+{"time" : "2019-09-24 13:57:19", "model" : "Renault", "type" : "TPMS", "id" : "8f8a5d", "flags" : "34", "pressure_kPa" : 225.750, "temperature_C" : 54.000, "mic" : "CRC"}
+{"time" : "2019-09-24 13:57:19", "model" : "Renault", "type" : "TPMS", "id" : "8f8a5d", "flags" : "34", "pressure_kPa" : 225.750, "temperature_C" : 54.000, "mic" : "CRC"}
+{"time" : "2019-09-24 14:06:42", "model" : "Renault", "type" : "TPMS", "id" : "9ae60b", "flags" : "36", "pressure_kPa" : 199.500, "temperature_C" : 35.000, "mic" : "CRC"}
+{"time" : "2019-09-24 14:06:43", "model" : "Renault", "type" : "TPMS", "id" : "9ae60b", "flags" : "36", "pressure_kPa" : 199.500, "temperature_C" : 35.000, "mic" : "CRC"}
+{"time" : "2019-09-24 14:11:46", "model" : "Schrader Electronics EG53MA4", "type" : "TPMS", "flags" : "4d930080", "id" : "302C12", "pressure_kPa" : 210.000, "temperature_F" : 106.000, "mic" : "CHECKSUM"}
