@@ -1,3 +1,6 @@
 secrets.py
 rtl-sdr/
 rtl_443/
+__pycache__/
+RTL_433/
+
