@@ -187,20 +187,20 @@ def wd_correct(wd):
 
 
 # ============================================================================
-# MAIN functions:
+# Custom functions:
 # ============================================================================
 
 
 def clearVars():
-    a1 = []
-    a2 = []
-    a3 = []
-    a4 = []
-    a5 = 0
+    """ Clears the variables set in MAIN """
+
+    a1 = [], a2 = [], a3 = [], a4 = [], a5 = 0
     return a1, a2, a3, a4, a5
 
 
 def display_data(h, c, wd, ws):
+    """ for veiwing in terminal / debugging """
+
     print(nowStr())
     print(
         "Temperature:              {:.2f} F ".format(
@@ -264,11 +264,11 @@ def upload_weather(wu_station_id, wu_station_key, tempC, humidity, windDir, wind
 
 
 # ============================================================================
-#  Create sub-process:
+#  Initialize the sub-process:
 # ============================================================================
 
 #  Note that we need to either ignore output from STDERR or
-#  merge it with STDOUT due to a limitation/bug somewhere under the covers of "subprocess"
+#  merge it with STDOUT due to a limitation/bug somewhere under in "subprocess"
 #   > this took awhile to figure out a reliable approach for handling it...
 p = Popen(cmd, stdout=PIPE, stderr=STDOUT, bufsize=1, close_fds=ON_POSIX)
 #   We're using a queue to capture output as it occurs
@@ -320,7 +320,7 @@ while True:
     else:  # got line
         pulse -= 1
 
-        ## hacky workaround for the header files that draw errors ##
+        ### hacky workaround for the header files that draw errors ###
         # Goes to roughly -15 with the header files then climbs
         # to a positive value as no readings are measured
         if pulse > 0:
@@ -415,7 +415,7 @@ while True:
             hum, tempC, windDir, windSpeed, pulse = clearVars()
 
 
-        # Reset the data trackers
+        # Reset all the data trackers
         have_hum = False
         have_temp = False
         have_wd = False
