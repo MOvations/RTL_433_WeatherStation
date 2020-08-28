@@ -19,23 +19,17 @@ __author__ = "Mark Oliver"
 __license__ = "GPL"
 __maintainer__ = "MOvations"
 
-
-# Save this as separete file later, before loading GitHub
-# class Config:
-#     # Weather Underground
-
-
 import sys
 from subprocess import PIPE, Popen, STDOUT
 from threading import Thread
 import time 
 from secrets import STATION_ID, STATION_KEY
 
-# import re                                             # No longer needed, but could be used to parse STDOUT
-import json  # JSON was easiest with the rtl_433 framework
+# import re             # No longer needed, but could be used to parse STDOUT
+import json             # JSON was easiest with the rtl_433 framework
 import datetime as dt
 import pandas as pd
-import numpy as np  # Data is collected and manipulated in DataFrams and Arrays
+import numpy as np      # Data is collected and manipulated in DataFrams and Arrays
 import os
 
 from urllib.parse import urlencode  # For uploading to Weather Underground (WU)
@@ -46,6 +40,7 @@ try:
     from Queue import Queue, Empty  # python 2
 except ImportError:
     from queue import Queue, Empty  # python 3.x
+
 
 # ============================================================================
 # CMD to execute in terminal
