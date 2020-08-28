@@ -2,4 +2,5 @@ secrets.py
 rtl-sdr/
 rtl_433/
 __pycache__/
+.vscode/
 
