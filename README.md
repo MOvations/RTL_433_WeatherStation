@@ -1,4 +1,4 @@
-# Weather-Stations
+# Raspberry Pi SDR Weather Station for 433MHz LaCrosse Sensor
 
 
 This is a script used with a raspberry pi and an SDR to read a local 433 MHz weather station
@@ -9,5 +9,6 @@ Some more housekeeping is need to streamline this
 
 
 
-The SDR was installed on the device following these instructions: https://sdr-setup-notes.readthedocs.io/en/latest/about.html
+The SDR was installed on the device following these instructions: 
+https://sdr-setup-notes.readthedocs.io/en/latest/about.html
 
