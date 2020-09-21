@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 ******************************************************************************
+
     Pi Temperature Station
 
     This is a Raspberry Pi project that measures weather data
